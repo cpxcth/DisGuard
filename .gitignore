@@ -1,0 +1,10 @@
+# You may notice some files, such as myreadme.md and AGENTS.md ignored here.
+# Don't worry, I'm not trying to "hide" anything from you, this project is definitely (partly) vibe-coded.
+# These files are ignored because they're not necessary for the project to run, 
+# and including them would just add clutter to the repository. -cpxcth ☕
+.env
+.venv/
+__pycache__/
+*.py[cod]
+/myreadme.md
+/AGENTS.md
